@@ -1,0 +1,8 @@
+class calculator(
+public static void main(string args[])
+{
+  int a,b;
+sum=a+b;
+system.out.println("sum");
+}
+}
